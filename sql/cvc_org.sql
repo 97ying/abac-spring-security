@@ -1,0 +1,9 @@
+INSERT INTO "cvc_org"("path_id", "name", "full_path_id") VALUES (2, 'china', '/1/2');
+INSERT INTO "cvc_org"("path_id", "name", "full_path_id") VALUES (3, 'guangdong', '/1/2/3');
+INSERT INTO "cvc_org"("path_id", "name", "full_path_id") VALUES (4, 'guangzhou', '/1/2/3/4');
+INSERT INTO "cvc_org"("path_id", "name", "full_path_id") VALUES (5, 'guangxi', '/1/2/5');
+INSERT INTO "cvc_org"("path_id", "name", "full_path_id") VALUES (6, 'nanning', '/1/2/5/6');
+INSERT INTO "cvc_org"("path_id", "name", "full_path_id") VALUES (7, 'euro', '/7');
+INSERT INTO "cvc_org"("path_id", "name", "full_path_id") VALUES (1, 'asia', '/1');
+INSERT INTO "cvc_org"("path_id", "name", "full_path_id") VALUES (8, 'sweden', '/7/8');
+INSERT INTO "cvc_org"("path_id", "name", "full_path_id") VALUES (9, 'gothenburg', '/7/8/9');

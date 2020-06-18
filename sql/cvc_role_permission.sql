@@ -1,0 +1,10 @@
+INSERT INTO "cvc_role_permission"("id", "role_id", "permission_id") VALUES (6, 2, 5);
+INSERT INTO "cvc_role_permission"("id", "role_id", "permission_id") VALUES (7, 2, 6);
+INSERT INTO "cvc_role_permission"("id", "role_id", "permission_id") VALUES (8, 2, 7);
+INSERT INTO "cvc_role_permission"("id", "role_id", "permission_id") VALUES (9, 2, 8);
+INSERT INTO "cvc_role_permission"("id", "role_id", "permission_id") VALUES (10, 3, 5);
+INSERT INTO "cvc_role_permission"("id", "role_id", "permission_id") VALUES (1, 6, 1);
+INSERT INTO "cvc_role_permission"("id", "role_id", "permission_id") VALUES (2, 6, 2);
+INSERT INTO "cvc_role_permission"("id", "role_id", "permission_id") VALUES (3, 6, 3);
+INSERT INTO "cvc_role_permission"("id", "role_id", "permission_id") VALUES (11, 5, 1);
+INSERT INTO "cvc_role_permission"("id", "role_id", "permission_id") VALUES (12, 5, 2);

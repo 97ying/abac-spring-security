@@ -1,0 +1,12 @@
+INSERT INTO "cvc_permission"("id", "permission", "type") VALUES (2, 'vehicle_detail:read', 'widget');
+INSERT INTO "cvc_permission"("id", "permission", "type") VALUES (1, 'vehicles_list:read', 'widget');
+INSERT INTO "cvc_permission"("id", "permission", "type") VALUES (3, 'vehicle_detail:update', 'widget');
+INSERT INTO "cvc_permission"("id", "permission", "type") VALUES (5, 'vehicle:read', 'public_api');
+INSERT INTO "cvc_permission"("id", "permission", "type") VALUES (6, 'vehicle:create', 'public_api');
+INSERT INTO "cvc_permission"("id", "permission", "type") VALUES (7, 'vehicle:update', 'public_api');
+INSERT INTO "cvc_permission"("id", "permission", "type") VALUES (8, 'vehicle:delete', 'public_api');
+INSERT INTO "cvc_permission"("id", "permission", "type") VALUES (9, 'vehicle:read', 'org');
+INSERT INTO "cvc_permission"("id", "permission", "type") VALUES (10, 'vehicle:create', 'org');
+INSERT INTO "cvc_permission"("id", "permission", "type") VALUES (11, 'vehicle:update', 'org');
+INSERT INTO "cvc_permission"("id", "permission", "type") VALUES (12, 'vehicle:*', 'org');
+INSERT INTO "cvc_permission"("id", "permission", "type") VALUES (13, '*', 'org');
